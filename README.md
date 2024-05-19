@@ -1,10 +1,10 @@
 
 
 
-  <img align="right" alt="GIF" src="https://github.com/Hesham44ibrahim/abhisheknaiidu/blob/master/code.gif?raw=true" width="200" height="200" />
+  <img align="right" alt="GIF" src="https://github.com/Hesham44ibrahim/Hesham44ibrahim/blob/master/code.gif?raw=true" width="200" height="200" />
 
 <h3 align="center">
-  Welcome to Bashar Yousri's profile!
+  Welcome to Hesham Ibrahim's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -21,9 +21,9 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/heshamibrahimgomaa/" target="_blank"><img src="https://img.shields.io/badge/-Bashar%20Yousri-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/bsharyousri" target="_blank"><img src="https://img.shields.io/badge/-Bashar%20Yousri-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a> 
-<a href="https://twitter.com/BasharYousri" target="_blank"><img src="https://img.shields.io/badge/-Bashar%20Yousri-0077B5?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/heshamibrahimgomaa/" target="_blank"><img src="https://img.shields.io/badge/-Hesham%20Ibrahim-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/web.telegram.org/k/" target="_blank"><img src="https://img.shields.io/badge/-Hesham%20Ibrahim-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a> 
+<a href="https://twitter.com/Hesham44ibrahim" target="_blank"><img src="https://img.shields.io/badge/-Hesham%20Ibrahim-0077B5?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
